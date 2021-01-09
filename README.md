@@ -1,4 +1,4 @@
-# React-applications
+# Quiz-App
 
 Hello!
 This code represents a General Knowledge Quiz that helps the user choose answers to five questions during a single attempt, 
